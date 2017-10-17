@@ -6,13 +6,17 @@
 </p>
 
 * [Basic Programming](#basic-programming)
+    * [Basics of Input and Output](#basics-of-input-and-output)
+    * [Basics of Implementation](#basics-of-implementation)
+    * [Basics of Bit Manipulation](#basics-of-manipulation)
+    * [Recursion and Backtracking](#recursion-and-backtracking)
 * [Data Structures](#data-structures)
 * [Algorithms](#algorithms)
 * [Math](#math)
 
 # Basic Programming
 
-### Basics of Input/Output
+### Basics of Input and Output
 
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
