@@ -6,3 +6,5 @@
 </p>
 
 * [Basic Programming](#basic-programming)
+
+# 10 Days of Statistics
