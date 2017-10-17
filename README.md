@@ -16,7 +16,7 @@
 
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| <li style="color:green;">[Roy and Profile Picture](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)</li>                                 |   Very-Easy  |       10      |
+| <li><p align="left">[Roy and Profile Picture]</p>(https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)</li>                                 |   Very-Easy  |       10      |
 | <li>[Prime Number](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/)</li>                                                                |   Very-Easy  |       10      |
 | <li>[Count Divisors](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/)</li>                                                                |   Very-Easy  |       10      |
 | <li>[ASCII Value](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ascii-value/)</li>                                                                   |   Very-Easy  |       10      | 
@@ -62,6 +62,15 @@
 
 
 # Data Structures
+
+|                                                   Challenge                                           |     Level    |     Points    |
+|:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
+| <li>[]()</li>                              |   Very-Easy  |       10      |
+| <li>[]()</li>                              |   Very-Easy  |       10      |
+| <li>[]()</li>                              |   Very-Easy  |       10      |
+| <li>[]()</li>                              |   Very-Easy  |       10      |
+| <li>[]()</li>                              |   Very-Easy  |       10      |
+
 
 # Algorithms
 
