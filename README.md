@@ -41,6 +41,11 @@
 | [COUNT NUMBERS](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-numbers-46/)                                                                   |   Very-Easy  |       10      |
 | [Strings](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/strings-1/)                                                                          |     Easy     |       20      |
 | [Jump Out](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jump-out-34/)                                                                        |     Easy     |       20      |
+| [Digit Problem](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)                                                                      |   Very-Easy  |      7.9      |
+| [Passing the Parcel](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/passing-the-parcel/)                                                                 |     Easy     |      4.2      |
+| [Hackers with Bits](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/hack-the-string-9dce7834/)                                                           |     Easy     |      8.0      |
+| [Cricket Rating](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/cricket-rating-30/)                                                                  |     Easy     |      3.0      |
+
 
 ### Basics of Bit Manipulation
 
@@ -48,19 +53,16 @@
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
 | []()                              |   Very-Easy  |       10      |
 | []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
 
 ### Recursion and Backtracking
 
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
+| []()                              |    Easy   |       20      |
+| []()                              |    Easy   |       20      |
+| []()                              |    Easy   |       20      |
+| []()                              |   Medium  |       30      |
+
 
 # Data Structures
 
