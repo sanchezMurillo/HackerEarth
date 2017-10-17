@@ -6,7 +6,7 @@
 </p>
 
 * [Basic Programming](#basic-programming)
-    * [Basics of Input/Output](#basics-of-input/output)
+** [Basics of Input/Output](#basics-of-input/output)
 * [Basic Programming](#)
 * [Basic Programming](#)
 * [Basic Programming](#)
