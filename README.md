@@ -14,9 +14,9 @@
 
 
 
-|                                      ### Basics of Input and Output                                   |     Level    |     Points    |
+|                                          Basics of Input and Output                                   |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| [Roy and Profile Picture](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)                                                            |   Very-Easy  |       10      |
+| <li>[Roy and Profile Picture](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)</li>                                                       |   Very-Easy  |       10      |
 
 | Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
