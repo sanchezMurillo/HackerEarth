@@ -10,12 +10,15 @@
     * [Basics of Implementation](#basics-of-implementation)
     * [Basics of Bit Manipulation](#basics-of-manipulation)
     * [Recursion and Backtracking](#recursion-and-backtracking)
+    
 * [Data Structures](#data-structures)
+
 * [Algorithms](#algorithms)
     * [String Algorithms](#string-algorithms)
         * [Basics of String Manipulation](#basics-of-string-manipulation)
     
 * [Math](#math)
+    * [Basic Number Theory-1](#basic-number-theory-1)
 
 # Basic Programming
 
@@ -99,8 +102,6 @@
 
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
+| [Calculate the Power](https://www.hackerearth.com/fr/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/)                                                                |     Easy     |       20      |
+
+
