@@ -28,17 +28,15 @@
 | [Life, the Universe, and Everything](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/life-the-universe-and-everything/)                                   |   Very-Easy  |       10      |
 
  
-
-
 ### Basics of Implementation
 
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
+| [The Great Kian](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-great-kian/)                                                                     |   Very-Easy  |       10      |
+| [Min-Max](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/)                                                                          |   Very-Easy  |       10      |
+| [COUNT NUMBERS](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-numbers-46/)                                                                   |   Very-Easy  |       10      |
+| [Strings](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/strings-1/)                                                                          |     Easy     |       20      |
+| [Jump Out](https://www.hackerearth.com/es/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jump-out-34/)                                                                        |     Easy     |       20      |
 
 ### Basics of Bit Manipulation
 
