@@ -16,7 +16,7 @@
 
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| <li style="color: #73b369;">[Roy and Profile Picture](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)</li>                              |   Very-Easy  |       10      |
+| <li style="color:green;">[Roy and Profile Picture](https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)</li>                              |   Very-Easy  |       10      |
 
 | Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
