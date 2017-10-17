@@ -12,6 +12,9 @@
     * [Recursion and Backtracking](#recursion-and-backtracking)
 * [Data Structures](#data-structures)
 * [Algorithms](#algorithms)
+    * [String Algorithms](#string-algorithms)
+        * [Basics of String Manipulation](#basics-of-string-manipulation)
+    
 * [Math](#math)
 
 # Basic Programming
@@ -77,13 +80,17 @@
 
 # Algorithms
 
+### String Algorithms
+
+#### Basics of String Manipulation
+
 |                                                   Challenge                                           |     Level    |     Points    |
 |:-----------------------------------------------------------------------------------------------------:|:------------:|:-------------:|
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
-| []()                              |   Very-Easy  |       10      |
+| [Pallindrome](https://www.hackerearth.com/es/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/palindrome-124/)                                                                     |   Very-Easy  |       10      |
+| [Mirror of Mahatma Gandhi](https://www.hackerearth.com/es/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/mirror-of-mahatma-gandhi/)                                                           |     Easy     |       20      |
+| [Password](https://www.hackerearth.com/es/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/password-1/)                                                                         |     Easy     |       20      |
+| [Terrible Chandu](https://www.hackerearth.com/es/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/terrible-chandu/)                                                                    |     Easy     |       20      |
+
 
 
 # Math
