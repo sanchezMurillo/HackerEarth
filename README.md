@@ -6,29 +6,29 @@
 </p>
 
 * [Basic Programming](#basic-programming)
-    + [Basics of Input/Output](#basics-of-input-output)
-    + [Basics of Implementation](#basics-of-implementation)
-    + [Basics of Bit Manipulation](#basics-of-bit-manipulation)
-    + [Recursion and Backtracking](#recursion-and-backtracking)
+    - [Basics of Input/Output](#basics-of-input-output)
+    - [Basics of Implementation](#basics-of-implementation)
+    - [Basics of Bit Manipulation](#basics-of-bit-manipulation)
+    - [Recursion and Backtracking](#recursion-and-backtracking)
 * [Data Structures](#data-structures)
 * [Algorithms](#algorithms)
 * [Math](#math)
-    * [Basic Number Theory-1](#basic-number-theory-1)
+    - [Basic Number Theory-1](#basic-number-theory-1)
 
 # Basic Programming
 
-## Basics of Input/Output
+### Basics of Input/Output
 
 |                    Challenge                    |    Level    |    Points    |
 |:-----------------------------------------------:|:-----:|:------:|
 
 | [Roy and Profile Picture] (https://www.hackerearth.com/es/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)      | Very-Easy   |      10      |
 
-## Basics of Implementation
+### Basics of Implementation
 
-## Basics of Bit Manipulation
+### Basics of Bit Manipulation
 
-## Recursion and Backtracking
+### Recursion and Backtracking
 
 
 # Data Structures
@@ -37,4 +37,4 @@
 
 # Math
 
-## Basic Number Theory-1
+### Basic Number Theory-1
