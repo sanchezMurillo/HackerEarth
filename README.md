@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
     <a href=https://www.hackerearth.com/es/@sanchezmurillo>
         <img height=85 src="pictures/HE_logo.png">
     </a>
