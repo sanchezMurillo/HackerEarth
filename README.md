@@ -6,12 +6,30 @@
 </p>
 
 * [Basic Programming](#basic-programming)
-** [Basics of Input/Output](#basics-of-input/output)
-* [Basic Programming](#)
-* [Basic Programming](#)
-* [Basic Programming](#)
-* [Basic Programming](#)
+    * [Basics of Input/Output](#basics-of-input/output)
+    * [Basics of Implementation](#basics-of-implementation)
+    * [Basics of Bit Manipulation](#basics-of-bit-manipulation)
+    * [Recursion and Backtracking](#recursion-and-backtracking)
+* [Data Structures](#data-structures)
+* [Algorithms](#algorithms)
+* [Math](#math)
+    * [Basic Number Theory-1](#basic-number-theory-1)
 
 # Basic Programming
 
 ## Basics of Input/Output
+
+## Basics of Implementation
+
+## Basics of Bit Manipulation
+
+## Recursion and Backtracking
+
+
+# Data Structures
+
+# Algorithms
+
+# Math
+
+## Basic Number Theory-1
