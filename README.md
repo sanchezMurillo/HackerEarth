@@ -2,8 +2,8 @@
     <a href=https://www.hackerearth.com/es/@sanchezmurillo>
         <img height=85 src="pictures/HE_logo.png">
     </a>
-    <br>20 solutions to HackerEarth problems
-    <br>Exercises solved in HackerEarth
+    <br>Solutions to HackerEarth problems
+    <br>20 Exercises solved in HackerEarth
 </p>
 
 * [Basic Programming](#basic-programming)
