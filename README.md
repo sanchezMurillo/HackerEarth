@@ -6,5 +6,12 @@
 </p>
 
 * [Basic Programming](#basic-programming)
+    * [Basics of Input/Output](#basics-of-input-output)
+* [Basic Programming](#)
+* [Basic Programming](#)
+* [Basic Programming](#)
+* [Basic Programming](#)
 
-# 10 Days of Statistics
+# Basic Programming
+
+# Basics of Input/Output
