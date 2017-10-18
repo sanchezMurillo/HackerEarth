@@ -1,6 +1,6 @@
 <p align="center">
     <a href=https://www.hackerearth.com/es/@sanchezmurillo>
-        <img height=85 src="pictures/HE_logo.png">
+        <img height=85 src="https://hackerearth.global.ssl.fastly.net/static/hackerearth/images/logo/HE_logo.png">
     </a>
     <br>Solutions to HackerEarth problems
     <br>20 Exercises solved in HackerEarth
